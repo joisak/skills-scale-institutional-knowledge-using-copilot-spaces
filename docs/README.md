@@ -1,5 +1,9 @@
-# OctoAcme Project Management Processes
+# OctoAcme Project Management Docs README
 
+## Overview
+This README provides a starting point for team members and contributors for all things related to project and program management at OctoAcme. OctoAcme’s processes are built around clear stages, role clarity, and a focus on iterative, customer-centric delivery.
+
+### Project Management Process Summary
 OctoAcme’s project management processes are structured around a clear lifecycle that fosters transparency, iterative delivery, and strong stakeholder alignment. The lifecycle begins with project initiation, where new proposals are assessed for business value, stakeholder engagement, and clear success metrics. This leads into detailed project planning, with team kickoffs, prioritized backlogs, and risk assessment woven into the early stages to ensure readiness for execution. Key workflows include the use of project boards for task tracking, structured sprint/iteration planning, and a strong emphasis on maintaining living documentation such as one-pagers, risk registers, and release notes—ensuring every team member remains aligned on goals, timelines, and deliverables.
 
 Distinct personas play a critical role in OctoAcme’s approach. Project Managers coordinate scheduling, risk, and delivery logistics; Product Managers focus on maximizing customer value by defining priorities and outcomes; Developers implement and test features to meet acceptance criteria, while QA ensures release quality. Each role has clearly defined responsibilities and communication expectations—facilitated through regular meetings, technical documentation, and stakeholder reports. This alignment is reinforced by requiring at least one named PM and Product Lead for each project, with supporting roles engaged through the entire lifecycle.
@@ -7,3 +11,21 @@ Distinct personas play a critical role in OctoAcme’s approach. Project Manager
 Communication is treated as a discipline, with weekly and bi-weekly syncs, documented decision logs, and tailored stakeholder updates. Each project employs escalation paths for blockers and incidents, ensuring that risks or dependencies are addressed promptly through tiered involvement—escalating from team discussions to sponsor-level intervention for business-critical issues. Stakeholder communication templates streamline reporting, and retrospectives after each milestone drive accountability for process improvements.
 
 Quality assurance is foundational at OctoAcme. Testing spans the gamut from unit and integration tests through to end-to-end and smoke testing prior to production release, all enforced via continuous integration pipelines. Manual QA complements automated checks for major user-facing features, and the deployment process is carried out with documented rollback and incident plans. This commitment to quality is regularly reviewed and refined through retrospective sessions, where the team discusses successes, addresses gaps, and tracks action items to closure—ensuring the project management process remains robust, resilient, and continuously improving.
+
+---
+
+## Process Docs Index
+All the following process docs are maintained in the /docs folder:
+
+- [Project Management Overview](octoacme-project-management-overview.md)
+- [Project Initiation Guide](octoacme-project-initiation.md)
+- [Project Planning](octoacme-project-planning.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](octoacme-roles-and-personas.md)
+
+---
+
+Refer to this README for a single source of truth about OctoAcme’s methodology and where to find process details.
